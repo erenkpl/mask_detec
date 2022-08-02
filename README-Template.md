@@ -1,10 +1,10 @@
-# Project Title
+# maskFace
 
-Simple overview of use/purpose.
+Thanks to image processing and object tracking, maskFace recognize faces with mask or without mask. 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Project come with a new window that we see all the things about mask recognation. In that window, the real time video capture Label came in the middle, and the 
 
 ## Getting Started
 
